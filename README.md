@@ -1,9 +1,9 @@
-<h1 align="center">Welcome to Recycle Classification 👋</h1>
+<h1 align="center">Welcome to Recycle TrainPy 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-0.0.1-blue.svg?cacheSeconds=2592000" />
 </p>
 
-> Recycle Classification is a model created with Tensorflow. It is used to classify recyclable objects.
+> Recycle TrainPy is a model created with Tensorflow. It is used to classify recyclable objects.
 
 ## Author
 
