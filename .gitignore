@@ -1,0 +1,9 @@
+__pycache__
+.idea
+.vscode
+data
+oldmodel
+testdata
+tfjs
+tfjsmodel
+model.h5
